@@ -25,7 +25,7 @@
         <li><a href="#użyte-technologie">Użyte technologie</a></li>
     </li>
     <li>
-      <a href="#sposób-uruchomienia">Sposób Uruchomienia</a>
+      <a href="#sposób-uruchomienia">Sposób uruchomienia</a>
   </li>
   </ol>
 </details>
@@ -33,7 +33,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## O Projekcie
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -42,7 +42,7 @@ Here's a blank template to get started:
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 
-### Built With
+### Użyte technologie
 
 * []()
 * []()
@@ -51,7 +51,7 @@ Here's a blank template to get started:
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Sposób uruchomienia
 
 To get a local copy up and running follow these simple steps.
 
