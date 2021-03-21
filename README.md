@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## O Projekcie
 
-Projekt jest próba 
+Projekt jest próbą rekonstrukcji gry Jet Fighter z 1975 roku. Jest to gra ze starych automatów do gier, niegdyś popularnych w salonach gier w USA. Dziś sama ulotka do tego automatu warta 10-30 dolarów jest gratką dla kolekcjonerów, a cena samego automatu do gier jest przez emnie nieznana, gdyż jest to jeden z najrzadszych automatów. W grze latają dwa samoloty(biały i czarny), którymi sterują dwaj gracze przeciwko
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
