@@ -10,7 +10,7 @@
   <p align="center">
     Próba rekonstrukcji gry z 1975 roku
     <br />
-    <a href="https://www.youtube.com/watch?v=MMObEpsy7Eg">Zobacz demo oryginalnej gry</a>
+    <a href="https://www.youtube.com/watch?v=LTnQcxT93SA">Zobacz wideo rozgrywki z oryginalnej gry</a>
   </p>
 </p>
 
