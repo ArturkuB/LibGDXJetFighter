@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://flyers.arcade-museum.com/flyers_video/atari/11009001.jpg" alt="Logo" width="80" height="150">
+    <img src="https://flyers.arcade-museum.com/flyers_video/atari/11009001.jpg" alt="Logo" width="150" height="220">
   </a>
 
   <h3 align="center">project_title</h3>
