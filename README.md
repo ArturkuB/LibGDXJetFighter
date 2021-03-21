@@ -8,14 +8,9 @@
   <h3 align="center">Jet Fighter</h3>
 
   <p align="center">
-    project_description
+    Rekonstrukcja gry z 1975 roku
     <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://www.youtube.com/watch?v=MMObEpsy7Eg">Zobacz demo oryginalnej gry</a>
   </p>
 </p>
 
