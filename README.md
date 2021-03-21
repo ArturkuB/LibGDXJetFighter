@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Jet_Fighter_(video_game)">
-    <img src="https://flyers.arcade-museum.com/flyers_video/atari/11009001.jpg" alt="Logo" width="150" height="220">
+    <img src="https://flyers.arcade-museum.com/flyers_video/atari/11009001.jpg" alt="Logo" width="180" height="220">
   </a>
 
   <h3 align="center">project_title</h3>
