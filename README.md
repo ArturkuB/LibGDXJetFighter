@@ -42,7 +42,7 @@ Projekt jest próbą rekonstrukcji gry Jet Fighter z 1975 roku. Jest to gra ze s
 
 ## Użyte technologie
 
-* [Framework LibGDX](https://libgdx.com/dev/)
+* [Framework libGDX](https://libgdx.com/dev/)
 * Klasy Stack, Color, Date
 
 ## Sposób uruchomienia
