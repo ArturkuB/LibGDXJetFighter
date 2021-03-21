@@ -51,4 +51,4 @@ To get a local copy up and running follow these simple steps.
 
 ## Wideo z rozgrywki
 
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/<RmaOK0SfDqc>/0.jpg)](https://www.youtube.com/watch?v=RmaOK0SfDqc "Video Title")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/RmaOK0SfDqc/0.jpg)](https://www.youtube.com/watch?v=RmaOK0SfDqc "Video Title")
