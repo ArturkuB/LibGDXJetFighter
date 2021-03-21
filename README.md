@@ -8,7 +8,7 @@
   <h3 align="center">Jet Fighter</h3>
 
   <p align="center">
-    Rekonstrukcja gry z 1975 roku
+    Próba rekonstrukcji gry z 1975 roku
     <br />
     <a href="https://www.youtube.com/watch?v=MMObEpsy7Eg">Zobacz demo oryginalnej gry</a>
   </p>
@@ -18,13 +18,11 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">Spis treści</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#o-projekcie">O Projekcie</a>
+        <li><a href="#użyte-technologie">Użyte technologie</a></li>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
