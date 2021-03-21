@@ -5,12 +5,10 @@
     <img src="https://flyers.arcade-museum.com/flyers_video/atari/11009001.jpg" alt="Logo" width="180" height="220">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Jet Fighter</h3>
 
   <p align="center">
     project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
