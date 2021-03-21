@@ -47,7 +47,9 @@ Projekt jest próbą rekonstrukcji gry Jet Fighter z 1975 roku. Jest to gra ze s
 
 ## Sposób uruchomienia
 
-To get a local copy up and running follow these simple steps.
+Aby uruchomić projekt należy go zaimportować jako projekt Gradle i wybrać wersję 5.4.
+Przykład z użyciem Eclipse:
+File -> Import -> Existing Gradle Project -> Wybrać ścieżkę do folderu z projektem -> Wybrać w polu Specific Gradle version wartość 5.4.
 
 ## Wideo z rozgrywki
 
