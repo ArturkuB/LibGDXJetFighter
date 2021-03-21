@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## O Projekcie
 
-Projekt jest próbą rekonstrukcji gry Jet Fighter z 1975 roku. Jest to gra ze starych automatów do gier, niegdyś popularnych w salonach gier w USA. Dziś sama ulotka do tego automatu warta 10-30 dolarów jest gratką dla kolekcjonerów, a cena samego automatu do gier jest przez emnie nieznana, gdyż jest to jeden z najrzadszych automatów. W grze latają dwa samoloty(biały i czarny), którymi sterują dwaj gracze przeciwko grający przeciwko sobie. W moim projekcie sterowanie odbywa się za pomocą przycisków A, D i spacji dla myśliwca białego oraz strzałek < > i entera dla czarnego.
+Projekt jest próbą rekonstrukcji gry Jet Fighter z 1975 roku. Jest to gra ze starych automatów do gier, niegdyś popularnych w salonach gier w USA. Dziś sama ulotka do tego automatu warta 10-30 dolarów jest gratką dla kolekcjonerów, a cena samego automatu do gier jest przez emnie nieznana, gdyż jest to jeden z najrzadszych automatów. W grze latają dwa samoloty(biały i czarny), którymi sterują dwaj gracze przeciwko grający przeciwko sobie. Więcej informacji można znaleźć <a href="https://www.arcade-museum.com/game_detail.php?game_id=8232">Tutaj</a> W moim projekcie sterowanie odbywa się za pomocą przycisków A, D i spacji dla myśliwca białego oraz strzałek < > i entera dla czarnego. 
 
 ### Użyte technologie
 
