@@ -27,6 +27,9 @@
     <li>
       <a href="#sposób-uruchomienia">Sposób uruchomienia</a>
   </li>
+   <li>
+      <a href="#wideo-z-rozgrywki">Wideo z rozgrywki</a>
+  </li>
   </ol>
 </details>
 
@@ -35,12 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## O Projekcie
 
-Projekt jest próbą rekonstrukcji gry Jet Fighter z 1975 roku. Jest to gra ze starych automatów do gier, niegdyś popularnych w salonach gier w USA. Dziś sama ulotka do tego automatu warta 10-30 dolarów jest gratką dla kolekcjonerów, a cena samego automatu do gier jest przez emnie nieznana, gdyż jest to jeden z najrzadszych automatów. W grze latają dwa samoloty(biały i czarny), którymi sterują dwaj gracze przeciwko
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+Projekt jest próbą rekonstrukcji gry Jet Fighter z 1975 roku. Jest to gra ze starych automatów do gier, niegdyś popularnych w salonach gier w USA. Dziś sama ulotka do tego automatu warta 10-30 dolarów jest gratką dla kolekcjonerów, a cena samego automatu do gier jest przez emnie nieznana, gdyż jest to jeden z najrzadszych automatów. W grze latają dwa samoloty(biały i czarny), którymi sterują dwaj gracze przeciwko grający przeciwko sobie. W moim projekcie sterowanie odbywa się za pomocą przycisków A, D i spacji dla myśliwca białego oraz strzałek < > i entera dla czarnego.
 
 ### Użyte technologie
 
@@ -51,30 +49,6 @@ Here's a blank template to get started:
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+## Wideo z rozgrywki
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+[![IMAGE ALT TEXT](https://youtu.be/RmaOK0SfDqc/0.jpg)](https://youtu.be/RmaOK0SfDqc "Video Title")
