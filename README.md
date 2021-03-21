@@ -44,7 +44,7 @@ Here's a blank template to get started:
 
 ### Użyte technologie
 
-* [https://libgdx.com/dev/](Biblioteka LibGDX)
+* [https://libgdx.com/dev/] (Biblioteka LibGDX)
 * []()
 * []()
 
