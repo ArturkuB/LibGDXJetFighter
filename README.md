@@ -45,10 +45,7 @@ Here's a blank template to get started:
 ### Użyte technologie
 
 * [Framework LibGDX](https://libgdx.com/dev/)
-* [](Klasy Stack, Color, Date)
-
-
-
+* Klasy Stack, Color, Date
 
 ## Sposób uruchomienia
 
